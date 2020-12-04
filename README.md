@@ -14,5 +14,6 @@ następnie każdą grupę możemy edytować za pomocą innego edytora
 # P.S
 Do wszystkiego napisany GUI za pomoca Swing który pozwala zrozumieć działanie tego programu
 # Screenshots
+![Screenshot_2](https://user-images.githubusercontent.com/19534189/101167076-071cc700-3642-11eb-87e0-03e3c5414c00.png)  
 ![Screenshot_1](https://user-images.githubusercontent.com/19534189/101167074-06843080-3642-11eb-8d14-965bab775689.png)
-![Screenshot_2](https://user-images.githubusercontent.com/19534189/101167076-071cc700-3642-11eb-87e0-03e3c5414c00.png)
+
