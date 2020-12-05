@@ -1,5 +1,4 @@
 # GroupManager
-# Cel programu
 Stworzenie aplikacji pozwalającej do zarządzania grupami obiektów, czyli mozemy tworzyć grupę obiektów
 następnie każdą grupę możemy edytować za pomocą innego edytora
 # Możliwości manager'a group
